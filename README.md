@@ -1,4 +1,4 @@
-# Data_analysis
+# Data analysis
 
 * This repository contains several data analysis projects. You will be able to find code written in R and Python.
 # 1. Polish demography:
