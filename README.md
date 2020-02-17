@@ -1,7 +1,6 @@
 # Data_analysis
 
-* This repository contains several data analysis projects. It contains code in R and Python, you will be able to see the code in the jupyter notebooks file.
-
+* This repository contains several data analysis projects. You will be able to find code written in R and Python.
 # 1. Polish demography:
 
 * It contains a research of the demographics in Poland, the population will be separated in two groups:
