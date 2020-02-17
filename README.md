@@ -8,7 +8,7 @@
 ## A.	By level of income: Low vs High
 
 ### [Jupyer notebook - R](https://github.com/lajobu/Data-analysis/blob/master/1%20Polish%20demography/High%20Low%20income/High%20Low%20income%20R.ipynb)
-## [Jupyer notebook - Python](https://github.com/lajobu/Data-analysis/blob/master/1%20Polish%20demography/High%20Low%20income/High%20Low%20income%20Python.ipynb)
+### [Jupyer notebook - Python](https://github.com/lajobu/Data-analysis/blob/master/1%20Polish%20demography/High%20Low%20income/High%20Low%20income%20Python.ipynb)
 
 ## B.	By area of living: Rural vs Urban
 
