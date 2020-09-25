@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-In this project I will analize the `renting expenses` during the `two years` period I was `living in Warsaw (Poland)`.
+In this project I will analize the `rent expenses` during the `two years` period I was `living in Warsaw (Poland)`.
 
 I was living in `Mokotow` area, the apartment had `55 square meters`, with `two rooms`, `terrace` and `garden`. During this period, the landlord sent me every monmth an excel file with all the details about the renting expenses, such as heating, electricity...
 
