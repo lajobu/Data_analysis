@@ -1,5 +1,7 @@
 # :star: Polish demography:
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 It contains a research of the demographics in Poland, the population will be separated in two groups:
 
 ## :ballot_box_with_check: A.	By level of income: Low vs High
