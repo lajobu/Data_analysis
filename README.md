@@ -10,8 +10,8 @@
 
 ### [:ballot_box_with_check: Polish demography](https://github.com/lajobu/Data-analysis/tree/master/1%20Polish%20demography)
 
-# :star: 2) Renting expenses:
+# :star: 2) Rent expenses:
 
 * In this project I will analize the renting expenses during the two years period I was living in Warsaw (Poland).
 
-### [:ballot_box_with_check: Renting expenses](https://github.com/lajobu/Data-analysis/tree/master/2%20Renting%20expenses)
+### [:ballot_box_with_check: Rent expenses](https://github.com/lajobu/Data-analysis/tree/master/2%20Renting%20expenses)
